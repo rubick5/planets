@@ -1,2 +1,6 @@
 Cold and dry, but everything is my favourite colour!
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
+=======
+But the Mummy will appreciate the lack of humidity.
+>>>>>>> parent of f1c617a (Add a cool change...)
