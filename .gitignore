@@ -1,3 +1,8 @@
+# this ignores all csv files in the root directory
 *.csv
+# this is how you can ignore all csv files in all directories
+**/*.csv
+# all csv files except final.csv are ignored
 !final.csv
+
 results/
