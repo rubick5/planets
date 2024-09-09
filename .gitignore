@@ -1,2 +1,3 @@
-*.csv
+*.csv         # ignore all csv files
+!final.csv    # except final.csv
 results/
